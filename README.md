@@ -117,17 +117,6 @@ This email template can be used for:
 
 ---
 
-## 📸 Preview
-
-> Add screenshot or GIF here for better presentation
-
-Example:
-
-* Desktop view image
-* Mobile responsive view image
-
----
-
 ## 📄 License
 
 This project is open-source and available for learning and customization.
